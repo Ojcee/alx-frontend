@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
-    left: var(--header-logo-logo-left);
+    left: var(--header-logo-link-left);
 }
 
 .section-body {
